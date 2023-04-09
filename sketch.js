@@ -14,7 +14,7 @@ function setup() {
 	var ball_options={
 
 		isStatic:false,
-		restituition:0.3
+		restitution:0.3
 	}
 
 	engine = Engine.create();
